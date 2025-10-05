@@ -1,3 +1,12 @@
+Modified from the original as unable to get original docker-compose.yml and Dockerfile to work:
+1. Default Node version too high to support vm
+2. Error in install.js as references "prompt" but doesn't include library plus installation should be non-interactive
+
+
+Remaining README.md as below - https://github.com/formio/formio
+================================
+
+
 [![Join the chat at https://gitter.im/formio/formio](https://badges.gitter.im/formio/formio.svg)](https://gitter.im/formio/formio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![StackOverflow](https://www.codewake.com/badges/codewake2.svg)](http://stackoverflow.com/tags/formio)
 
