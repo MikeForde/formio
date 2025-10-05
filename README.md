@@ -1,5 +1,5 @@
 Modified from the original as unable to get original docker-compose.yml and Dockerfile to work:
-1. Default Node version too high to support vm
+1. Default Node version too high (as set to fetch latest) to support isolated-vm - needs setting to no higher than 20.
 2. Error in install.js as references "prompt" but doesn't include library plus installation should be non-interactive
 
 
